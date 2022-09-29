@@ -17,6 +17,7 @@ The objective of this analysis is to create a multiple-line graph that shows the
  Interestingly, the population in the Rural city seem to pay more on an average compared to the Urban and Suburban cities. This can be linked to the distance of travel. Probably, the Rural city is far from the Urban and Suburban cities, so the fare of the ride would be more if the distances are long. The Urban city pays the least in both the average fares per ride and driver.
  
  This can be seen in the table and chart below:
+
 ![pyber_summary_table](analysis/pyber_summary_table.png)
 
 ![Pyber_fare_summary](analysis/Pyber_fare_summary.png)
