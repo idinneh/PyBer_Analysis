@@ -8,13 +8,13 @@ The objective of this analysis is to create a multiple-line graph that shows the
 
 ## Results
 ### Total Rides
- From the analysis, we can see that actually there is a big difference gap among the city´s types. Urban cities had most number of rides with 1625 rides, while Suburban cities had 625 rides. Rural cities were the leats with 125 rides.
+From the analysis, we can see that actually there is a big difference gap among the city´s types. Urban cities had most number of rides with 1625 rides, while Suburban cities had 625 rides. Rural cities were the leats with 125 rides.
  
  ### Total Drivers and Fares
- We can see that the total rides are directly proportional to the total drivers and fares. It is expected that in a city type that has more drivers, the total rides and fares would be higher compared to other city types. As we can see the Urban city type would be booming with more businesses, big companies, high real estate developments and institiutions. Therefore, there would be a higher demand of services in the Urban city than the Suburban and Rural city.  The next city that follows Urban city is the Suburban city. The direct proportion trend can be seen in this city type, as well as, the Rural city type. The least total drivers and fares are seen in the Rural city. We can say it can be attributed to the lower demand of services and socioeconomic level of the population who reside in that part of the city.
+We can see that the total rides are directly proportional to the total drivers and fares. It is expected that in a city type that has more drivers, the total rides and fares would be higher compared to other cities. As we can see the Urban city would be booming with more businesses, big companies, high real estate developments and institiutions. Therefore, there would be a higher demand of services in the Urban city than the Suburban and Rural city.  The next city that follows Urban city is the Suburban city. The direct proportion trend can be seen in this city type, as well as, the Rural city type. The least total drivers and fares are seen in the Rural city. We can say it can be attributed to the lower demand of services and socioeconomic level of the population who reside in that part of the city.
  
  ### Average Fare Per Ride and Per Driver
- Interestingly, the population in the Rural city seem to pay more on an average compared to the Urban and Suburban cities. This can be linked to the distance of travel. Probably, the Rural city is far from the Urban and Suburban cities, so the fare of the ride would be more if the distances are long. The Urban city pays the least in both the average fares per ride and driver.
+Interestingly, the population in the Rural city seem to pay more on an average compared to the Urban and Suburban cities. This can be linked to the distance of travel. Probably, the Rural city is far from the Urban and Suburban cities, so the fare of the ride would be more if the distances are longer. The Urban city pays the least in both the average fares per ride and per driver.
  
  This can be seen in the table and chart below:
 
