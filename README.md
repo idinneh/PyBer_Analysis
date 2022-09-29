@@ -20,7 +20,7 @@ The objective of this analysis is to create a multiple-line graph that shows the
 
 ![pyber_summary_table](analysis/pyber_summary_table.png)
 
-![Pyber_fare_summary](analysis/Pyber_fare_summary.png)
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
 
 ## Summary
